@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<airport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://flydata.avinor.no/XmlFeed.xsd"
+         name="KRS">
+  <flights lastUpdate="2018-02-09T19:48:04Z">
+    <flight uniqueID="7335217">
+      <airline>WF</airline>
+      <flight_id>WF591</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2018-02-09T16:35:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>BGO</airport>
+      <status code="E" time="2018-02-09T16:40:00Z"/>
+    </flight>
+    <flight uniqueID="7333885">
+      <airline>DY</airline>
+      <flight_id>DY277</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2018-02-09T16:55:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+      <gate>1</gate>
+      <status code="C"/>
+    </flight>
+    <flight uniqueID="7335227">
+      <airline>WF</airline>
+      <flight_id>WF605</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2018-02-09T18:50:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>TRD</airport>
+      <status code="A" time="2018-02-09T18:50:00Z"/>
+    </flight>
+    <flight uniqueID="7335220">
+      <airline>WF</airline>
+      <flight_id>WF594</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2018-02-09T19:15:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>BGO</airport>
+      <gate>6</gate>
+      <status code="D" time="2018-02-09T19:16:00Z"/>
+    </flight>
+    <flight uniqueID="7334372">
+      <airline>SK</airline>
+      <flight_id>SK223</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2018-02-09T19:35:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+      <status code="E" time="2018-02-09T20:21:00Z"/>
+      <delayed>Y</delayed>
+    </flight>
+    <flight uniqueID="7333888">
+      <airline>DY</airline>
+      <flight_id>DY280</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2018-02-09T20:20:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+      <status code="C"/>
+    </flight>
+    <flight uniqueID="7335084">
+      <airline>WF</airline>
+      <flight_id>WF277</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2018-02-09T20:50:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>CPH</airport>
+    </flight>
+    <flight uniqueID="7334231">
+      <airline>KL</airline>
+      <flight_id>KL1211</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2018-02-09T21:05:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>AMS</airport>
+      <status code="E" time="2018-02-09T21:06:00Z"/>
+    </flight>
+    <flight uniqueID="7335223">
+      <airline>WF</airline>
+      <flight_id>WF597</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2018-02-09T21:30:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>BGO</airport>
+    </flight>
+  </flights>
+</airport>

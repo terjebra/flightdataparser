@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+<ItemGroup>
+    <Compile Include="ParserUtils.fs" />
+    <Compile Include="AirportParser.fs" />
+    <Compile Include="AirlineParser.fs" />
+    <Compile Include="FlightStatusParser.fs" />
+    <Compile Include="FlightParser.fs" />
+</ItemGroup>
+
+<ItemGroup>
+  <PackageReference Include="System.Xml.XmlDocument" Version="4.3.0" />
+</ItemGroup>
+
+</Project>
