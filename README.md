@@ -7,4 +7,4 @@ Parses flightdata from Avinor. See https://avinor.no/konsern/tjenester/flydata/f
 * parseFlights -parses flights
 * parseAirports - parses airports
 * parseAirlines - parses airlines
-* parseFlightStatues - parses flight statuses
+* parseFlightStatuses - parses flight statuses
